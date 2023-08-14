@@ -1,0 +1,45 @@
+head {
+  background-color: #17202A;
+}
+body {
+  background-color: #17202A;
+}
+h1 {
+  text-align: center;
+  color: #5DADE2;
+    background-color: white;
+
+  text-shadow: 0px 0px 0px black; /* red outline */
+
+  font-family: Impact, fantasy;
+  border-style: solid;
+  border-color: red;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+p {
+  text-align: center;
+  color: #FDFEFE;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+/* unvisited link */
+a:link {
+  color: #FDFEFE;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
